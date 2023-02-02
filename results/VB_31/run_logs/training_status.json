@@ -1,0 +1,29 @@
+{
+    "Volleyball": {
+        "checkpoints": [
+            {
+                "steps": 5152,
+                "file_path": "results\\VB_31\\Volleyball\\Volleyball-5152.onnx",
+                "reward": 0.006622516457608204,
+                "creation_time": 1629616120.220257,
+                "auxillary_file_paths": [
+                    "results\\VB_31\\Volleyball\\Volleyball-5152.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5152,
+            "file_path": "results\\VB_31\\Volleyball.onnx",
+            "reward": 0.006622516457608204,
+            "creation_time": 1629616120.220257,
+            "auxillary_file_paths": [
+                "results\\VB_31\\Volleyball\\Volleyball-5152.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
